@@ -1,0 +1,18 @@
+C:\Users\hayha\source\repos\hangdoi2\DTO\bin\Debug\DTO.dll
+C:\Users\hayha\source\repos\hangdoi2\DTO\bin\Debug\DTO.pdb
+C:\Users\hayha\source\repos\hangdoi2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\hayha\source\repos\hangdoi2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\hayha\source\repos\hangdoi2\DTO\obj\Debug\DTO.dll
+C:\Users\hayha\source\repos\hangdoi2\DTO\obj\Debug\DTO.pdb
+F:\E\hangdoi2\DTO\bin\Debug\DTO.dll
+F:\E\hangdoi2\DTO\bin\Debug\DTO.pdb
+F:\E\hangdoi2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\E\hangdoi2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\E\hangdoi2\DTO\obj\Debug\DTO.dll
+F:\E\hangdoi2\DTO\obj\Debug\DTO.pdb
+D:\Dựa án 1\Chinhthuc\hangdoi2\DTO\bin\Debug\DTO.dll
+D:\Dựa án 1\Chinhthuc\hangdoi2\DTO\bin\Debug\DTO.pdb
+D:\Dựa án 1\Chinhthuc\hangdoi2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Dựa án 1\Chinhthuc\hangdoi2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Dựa án 1\Chinhthuc\hangdoi2\DTO\obj\Debug\DTO.dll
+D:\Dựa án 1\Chinhthuc\hangdoi2\DTO\obj\Debug\DTO.pdb

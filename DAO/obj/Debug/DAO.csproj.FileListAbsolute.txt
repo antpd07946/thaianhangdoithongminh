@@ -1,0 +1,27 @@
+C:\Users\hayha\source\repos\hangdoi2\DAO\bin\Debug\DAO.dll
+C:\Users\hayha\source\repos\hangdoi2\DAO\bin\Debug\DAO.pdb
+C:\Users\hayha\source\repos\hangdoi2\DAO\bin\Debug\DTO.dll
+C:\Users\hayha\source\repos\hangdoi2\DAO\bin\Debug\DTO.pdb
+C:\Users\hayha\source\repos\hangdoi2\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\hayha\source\repos\hangdoi2\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\hayha\source\repos\hangdoi2\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\hayha\source\repos\hangdoi2\DAO\obj\Debug\DAO.dll
+C:\Users\hayha\source\repos\hangdoi2\DAO\obj\Debug\DAO.pdb
+F:\E\hangdoi2\DAO\bin\Debug\DAO.dll
+F:\E\hangdoi2\DAO\bin\Debug\DAO.pdb
+F:\E\hangdoi2\DAO\bin\Debug\DTO.dll
+F:\E\hangdoi2\DAO\bin\Debug\DTO.pdb
+F:\E\hangdoi2\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+F:\E\hangdoi2\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\E\hangdoi2\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\E\hangdoi2\DAO\obj\Debug\DAO.dll
+F:\E\hangdoi2\DAO\obj\Debug\DAO.pdb
+D:\Dựa án 1\Chinhthuc\hangdoi2\DAO\bin\Debug\DAO.dll
+D:\Dựa án 1\Chinhthuc\hangdoi2\DAO\bin\Debug\DAO.pdb
+D:\Dựa án 1\Chinhthuc\hangdoi2\DAO\bin\Debug\DTO.dll
+D:\Dựa án 1\Chinhthuc\hangdoi2\DAO\bin\Debug\DTO.pdb
+D:\Dựa án 1\Chinhthuc\hangdoi2\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Dựa án 1\Chinhthuc\hangdoi2\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Dựa án 1\Chinhthuc\hangdoi2\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Dựa án 1\Chinhthuc\hangdoi2\DAO\obj\Debug\DAO.dll
+D:\Dựa án 1\Chinhthuc\hangdoi2\DAO\obj\Debug\DAO.pdb

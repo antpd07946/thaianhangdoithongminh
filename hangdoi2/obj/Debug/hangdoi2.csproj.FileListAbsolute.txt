@@ -1,0 +1,142 @@
+F:\E\hangdoi2\hangdoi2\bin\Debug\hangdoi2.exe.config
+F:\E\hangdoi2\hangdoi2\bin\Debug\hangdoi2.exe
+F:\E\hangdoi2\hangdoi2\bin\Debug\hangdoi2.pdb
+F:\E\hangdoi2\hangdoi2\bin\Debug\BUS.dll.config
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\RestSharp.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\SunnyUI.FrameDecoder.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\System.Data.SqlClient.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\System.Numerics.Vectors.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Xamarin.Essentials.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Xamarin.Forms.Core.xml
+F:\E\hangdoi2\hangdoi2\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.AssemblyReference.cache
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.Form1.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmDangnhap.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmDanhgia.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmDatlich.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmLayso.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmMain.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmNguoiDung.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmNhanVien.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmQllichhen.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmQuanLyHangDoi1.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmQuanLyThoiGian.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmThongBao.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmThongKe.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmThongTinNguoiDung.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.Properties.Resources.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.GenerateResource.cache
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.exe.licenses
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.CoreCompileInputs.cache
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.Fody.CopyLocal.cache
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.CopyComplete
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.exe
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.pdb
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.CtrTiepNhan.resources
+F:\E\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmQLTaiKhoan.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.AssemblyReference.cache
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.CtrTiepNhan.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmDangKy.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmDangnhap.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmDanhgia.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmDatlich.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmHienthi.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmLayso.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmMain.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmNhanVien.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmQllichhen.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmQLTaiKhoan.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmQuanLyThoiGian.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmThongBao.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmThongKe.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmThongTinNguoiDung.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.Properties.Resources.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.UIDropControl2.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.GenerateResource.cache
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.exe.licenses
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.CoreCompileInputs.cache
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.exe
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.pdb
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\hangdoi2.exe.config
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\hangdoi2.exe
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\hangdoi2.pdb
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\BUS.dll.config
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\RestSharp.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\SunnyUI.FrameDecoder.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\System.Data.SqlClient.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\System.Numerics.Vectors.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Xamarin.Essentials.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Xamarin.Forms.Core.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.Fody.CopyLocal.cache
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.csproj.CopyComplete
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmMainNguoiDung.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmQLHangdoi.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.FrmQLNguoidung.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.Tiepnhan.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.CtrDanhGia.resources
+D:\Dựa án 1\Chinhthuc\hangdoi2\hangdoi2\obj\Debug\hangdoi2.frmMatKhau.resources
